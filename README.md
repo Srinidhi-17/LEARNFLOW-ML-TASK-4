@@ -5,17 +5,17 @@ Project Description:
 This project focuses on recognizing human activities using time series data. Two approaches are explored: a deep learning model using a neural network and a traditional machine learning model using a RandomForest classifier.
 
 Dataset Information:
-The dataset used for this project is the time series data of human activities, containing information such as timestamp, x-axis, y-axis, z-axis, and activity labels.
+The dataset used for this project is the time series data of human activities, containing information such as timestamp, x-axis, y-axis, z-axis, and activity labels. 
 
 Requirements
-Python 3.x
-Pandas
-NumPy
-scikit-learn
-TensorFlow
-Keras
-Matplotlib
-Seaborn
+Python 3.x,
+Pandas,
+NumPy,
+scikit-learn,
+TensorFlow,
+Keras,
+Matplotlib,
+Seaborn.
 
 Installation Instructions:
 Install dependencies: pip install -r requirements.txt
